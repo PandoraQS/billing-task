@@ -1,0 +1,5 @@
+vendor/
+mysql_data/
+logs/
+.env
+.phpunit.result.cache
